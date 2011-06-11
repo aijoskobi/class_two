@@ -1,13 +1,22 @@
 #References and Interesting Sites for Continuing
 
 ##Links to Ruby documentation:
-[ruby-lang.org/en/documentation](http://ruby-lang.org/en/documentation)  
-[ruby-doc.org](http://ruby-doc.org)
 
 These will provide listings of methods and classes as well as all the
 information you can imagine wanting for the Ruby language. Of course,
 they are documentation sites so are more useful for looking up specific
 questions or classes.
+
+###[ruby-lang.org/en/documentation](http://ruby-lang.org/en/documentation)  
+
+This link has a lot of links to other sites, books and tutorials.
+
+###[ruby-doc.org](http://ruby-doc.org)
+
+This is the cut and dry documentation site where you can find giant
+collections of all you need to know about the objects you've been using
+in the class. A good example of what you can find here is seen on the
+page for [Arrays](http://www.ruby-doc.org/core/classes/Array.html).
 
 ##Books, tutorials and practice
 
