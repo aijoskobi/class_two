@@ -1,13 +1,13 @@
 #References and Interesting Sites for Continuing
 
-##Links to Ruby documentation:
+##Links to Ruby documentation
 
 These will provide listings of methods and classes as well as all the
 information you can imagine wanting for the Ruby language. Of course,
 they are documentation sites so are more useful for looking up specific
 questions or classes.
 
-###[ruby-lang.org/en/documentation](http://ruby-lang.org/en/documentation)  
+###[ruby-lang.org/en/documentation](http://ruby-lang.org/en/documentation)
 
 This link has a lot of links to other sites, books and tutorials.
 
@@ -25,13 +25,11 @@ page for [Arrays](http://www.ruby-doc.org/core/classes/Array.html).
 A collection of unit tests made by EdgeCase that you fill in blanks to make
 pass and explore features of the language and lessons while doing so.
 
-
 ###[Hackety Hack](http://hackety-hack.com)
 
 A guide for absolute beginner programmers (much will be things you've
 already learned). However, it also coveres GUI and web programming so it
 might be helpful.
-
 
 ###[Why's Poignant Guide to Ruby book](http://mislav.uniqpath.com/poignant-guide/)
 
