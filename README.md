@@ -24,7 +24,7 @@ already learned). However, it also coveres GUI and web programming so it
 might be helpful.
 
 
-###[Why's Poignant](http://mislav.uniqpath.com/poignant-guide/)
+###[Why's Poignant Guide to Ruby book](http://mislav.uniqpath.com/poignant-guide/)
 
 An introductory book to the Ruby language, written by a guy who went by
 the name of "why the lucky stiff". This is a very unusual book full of
